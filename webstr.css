@@ -1,0 +1,164 @@
+@charset "utf-8";
+#out {
+	background-color: #edf2c5;
+	width: 1260px;
+	  position: relative;
+  left: 50%;
+ margin-left: -630px
+}
+a {
+    text-decoration:none;
+}
+body{
+	background-color: #edf2c5;
+
+	}
+
+#mid {
+	background-color: #edf2c5;
+	width: 960px;
+	margin-left: 150px;
+	margin-top: 50px;
+}
+#header {
+	height: 43px;
+	width: 940px;
+	margin-bottom: 10px;
+	font-size: 36px;
+	clear: none;
+	float: none;
+	text-align: left;
+}
+#mainpic {
+	height: 448px;
+	width: 940px;
+	margin-bottom: 32px;
+}
+#info {
+	height: 198px;
+	width: 940px;
+	margin-bottom: 34px;
+}
+#infoL {
+	height: 198px;
+	
+
+	width: 444px;
+	margin-right: 52px;
+	float: left;
+}
+.ic {
+	float: right;
+	margin-top: 18px;
+	margin-right: 8px;	
+}
+#headeR {
+	height: 20px;
+	margin-top: 23px;
+	border-left-style: solid;
+	border-left-color: #889c5b;
+	float: right;
+	border-left-width: 1px;
+}
+.icw {
+	border-radius: 5px;
+	height: 20px;
+	width: 50px;
+	margin-left: 8px;
+	border: 1px solid #889C5B;
+	float: left;
+	text-align:center;
+}
+
+
+
+.rad2 {
+	margin-left: 12px;
+}
+#contactinfo {
+	height: 110px;
+	background-color: #eef3d3;
+	padding: 15px;
+}
+.fontG {
+	font-family: Arial Black, Helvetica, sans-serif;
+	color: #889C5b;
+	font-size: 12px;
+}
+.fontH {
+	font-family: Arial Black, Helvetica, sans-serif;
+	color: #889C5b;
+	font-size: 36px;
+}
+
+
+.fontW {
+	font-family: "Arial Black", Helvetica, sans-serif;
+	color: #EDF2C5;
+	margin-right: 30px;
+	margin-left: 30px;
+	font-size: 16px;
+}
+
+#infoR {
+	height: 198px;
+	width: 444px;
+	clear: none;
+	float: left;
+}
+#footer {
+	height: 20px;
+	width: 1260px;
+	text-align: center;
+	font-size: 16px;
+	margin: 0px;
+}
+.tit {
+	border-radius: 5px;
+	background-color: #889C5B;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	
+}
+
+.tit2 {
+	margin-bottom: 17px;
+
+}
+. rad{
+	border-radius: 5px;
+}
+
+#botop{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #898989;	
+}
+
+
+
+
+#cbox {
+	width: 940px;
+	margin-bottom: 20px;
+}
+.contactinfow {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #898989;
+	font-size: 12px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #898989;
+	padding-bottom: 15px;
+	margin: 0px;
+}
+.contactinfow2 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #898989;
+	font-size: 12px;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+
+}
