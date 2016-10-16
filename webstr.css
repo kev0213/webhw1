@@ -23,7 +23,7 @@ body{
 #header {
 	height: 43px;
 	width: 940px;
-	margin-bottom: 10px;
+	margin-bottom: 17px;
 	font-size: 36px;
 	clear: none;
 	float: none;
@@ -88,7 +88,7 @@ body{
 .fontH {
 	font-family: Arial Black, Helvetica, sans-serif;
 	color: #889C5b;
-	font-size: 36px;
+	font-size: 43px;
 }
 
 
@@ -98,6 +98,13 @@ body{
 	margin-right: 30px;
 	margin-left: 30px;
 	font-size: 16px;
+}
+.fontWB {
+	font-family: "Arial Black", Helvetica, sans-serif;
+	color: #EDF2C5;
+	margin-right: 30px;
+	margin-left: 30px;
+	font-size: 12px;
 }
 
 #infoR {
