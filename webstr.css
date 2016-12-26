@@ -9,7 +9,7 @@
 a {
     text-decoration:none;
 }
-body{
+body{	background-position:center center;
 	background-image:url(1.png);
 
 	}
